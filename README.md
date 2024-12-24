@@ -7,7 +7,7 @@ ReBirth 338 v2.01 .iso is required at start,
 works ok with [MagicISO](https://web.archive.org/web/20210516111743/http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm?=mdisc_hlp106) Virtual CD/DVD.
 MagicISO drivers require Reboot Windows in SafeMode and dissable 7 Driver Enforcement, and install as Administrator. </br>
 
-ReBirth for PC was Discontinued as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) and replaced by ReBirth for iPad  </br>
+ReBirth for PC was Discontinued as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) and replaced by ReBirth for iPad  and Discontinued in [2017](https://help.reasonstudios.com/hc/en-us/articles/360002216853-ReBirth-for-iPad-has-been-discontinued)</br>
 ReBirth ReWire worked with [Reason 10](https://reverb.com/news/how-to-combine-2-daws-with-rewire) or older </br>
 
 ReBirth also works ok in Linux, but there is No ProTools for Linux, and there is No Wine ReWire to Jack Audio, like WineAsio. </br>
