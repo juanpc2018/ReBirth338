@@ -31,4 +31,4 @@ Symmetric Boost & Cut or Asymetric like Waves REQ. </br>
 Avid d2/d3 very nice for DSP. </br>
 
 [2003 propellerheads.se Website](https://web.archive.org/web/20030429221427/http://www.propellerheads.se/products/rebirth/index.html)
-[ReWire v1.7](https://web.archive.org/web/20080918060928/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain)
+[2008 ReWire v1.7](https://web.archive.org/web/20080918060928/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain) [2010](https://web.archive.org/web/20100417072540/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain)
