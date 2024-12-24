@@ -26,8 +26,8 @@ Having multi-channel output for mixing audio on a DAW is the goal of ReWire. </b
 DX version works with [VB-Audio FFX4](http://vincent.burel.free.fr/download/index.htm) sounds a bit more transparent vs. VST </br>
 v1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
 v1.5.2 does Not have DX version, but has RTAS version. </br>
-[MasterQ1](https://web.archive.org/web/20110207212139/http://pspaudioware.com/plugins/equalizers/psp_masterq/) was Discontinued and replaced with [MasterQ2](https://www.pspaudioware.com/products/psp-masterq2), MQ1 still for sale if ask support. </br>
-[MasterQ2](https://www.pspaudioware.com/products/psp-masterq2) has a bit different algorithms "80-bit ﬂoating point", i prefer v1.0.2 "64-Bit DP FP" </br>
+[MasterQ1](https://web.archive.org/web/20110207212139/http://pspaudioware.com/plugins/equalizers/psp_masterq/) was Discontinued in 2015 and replaced with [MasterQ2](https://www.pspaudioware.com/products/psp-masterq2), MQ1 still for sale if ask support. </br>
+[MasterQ2](https://www.pspaudioware.com/products/psp-masterq2) has a bit different algorithms "80-bit Foating Point", i prefer v1.0.2 "64-Bit DP FP" </br>
 has medium size Q curves vs. Waves REQ "Narrow Q" or McDSP Channel G </br>
 there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narrow,  </br>
 Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boost & Cut. </br>
