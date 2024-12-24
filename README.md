@@ -5,9 +5,12 @@
 
 ReBirth 338 v2.01 .iso is required at start,
 works ok with [MagicISO](https://web.archive.org/web/20210516111743/http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm?=mdisc_hlp106) Virtual CD/DVD.
+MagicISO drivers require Reboot Windows in SafeMode and dissable 7 Driver Enforcement, and install as Administrator. </br>
 
 ReBirth for PC was Discontinued as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) and replaced by ReBirth for iPad  </br>
 ReBirth ReWire worked with [Reason 10](https://reverb.com/news/how-to-combine-2-daws-with-rewire) or older </br>
+
+ReBirth also works ok in Linux, but there is No ProTools for Linux, and there is No ReWire to Jack </br>
 
 PSP Audioware MasterQ 1.0.2 - 1.5.2 works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
 1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
