@@ -27,7 +27,7 @@ DX version works with [VB-Audio FFX4](http://vincent.burel.free.fr/download/inde
 v1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
 v1.5.2 does Not have DX version, but has RTAS version. </br>
 MasterQ1 was Discontinued and replaced with [MasterQ2](https://www.pspaudioware.com/products/psp-masterq2), MQ1 still for sale if ask support. </br>
-[MasterQ2](https://www.pspaudioware.com/products/psp-masterq2) has a bit different algorithms according to .pdf manual, i prefer v1.0.2 </br>
+[MasterQ2](https://www.pspaudioware.com/products/psp-masterq2) has a bit different algorithms according to .pdf manual "80-bit ﬂoating point", i prefer v1.0.2 "64-Bit" </br>
 has medium size Q curves vs. Waves REQ "Narrow Q" or McDSP Channel G </br>
 there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narrow,  </br>
 Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boost & Cut. </br>
