@@ -19,6 +19,8 @@ ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) /
 ReBirth works in [Linux](https://ubuntuforums.org/showthread.php?t=846551) but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
 Having multi-channel output for mixing is the goal of ReWire. </br>
 
+[ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
+
 PSP Audioware MasterQ 1.0.2 - 1.5.2 works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
 1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
 MasterQ 1 was Discontinued and replaced with MasterQ2, but still for sale if you ask support. </br>
