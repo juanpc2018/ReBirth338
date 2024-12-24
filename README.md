@@ -9,6 +9,7 @@ MagicISO CD/DVD drivers require to Reboot Windows in SafeMode to Dissable 7 Driv
 ReBirth for PC was Discontinued as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) and replaced by ReBirth for iPad Discontinued in [2017](https://help.reasonstudios.com/hc/en-us/articles/360002216853-ReBirth-for-iPad-has-been-discontinued)</br>
 ReWire worked with [Reason 10](https://reverb.com/news/how-to-combine-2-daws-with-rewire) or older </br>
 There is no ReWire support in [Cubase 12](https://forums.steinberg.net/t/i-didnt-see-where-is-rewire-menu/914704) onwards. </br>
+
 ReBirth requires to open the software, test a Benchmark: 22900 here i3-12100 with Balanced power settings, then opens a help file, select drivers/settings & close Rebirth. </br>
 ReBirth cannot be opened in ReWire mode when running ReBirth for the 1st time. </br>
 ReWire requires a large Buffer size in ProTools or audio will have glitches; </br>
