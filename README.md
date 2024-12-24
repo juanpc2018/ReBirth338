@@ -9,9 +9,10 @@ MagicISO CD/DVD drivers require to Reboot Windows in SafeMode to Dissable 7 Driv
 ReBirth for PC was Discontinued as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) and replaced by ReBirth for iPad Discontinued in [2017](https://help.reasonstudios.com/hc/en-us/articles/360002216853-ReBirth-for-iPad-has-been-discontinued)</br>
 ReBirth ReWire worked with [Reason 10](https://reverb.com/news/how-to-combine-2-daws-with-rewire) or older </br>
 
-ReBirth requires to open the software, test a Benchmark "22900 here i3-12100 with low power settings, automatically opens a help file & select drivers/settings, close Rebirth. </br>
+ReBirth requires to open the software, test a Benchmark: 22900 here i3-12100 with Balanced power settings, then opens a help file, select drivers/settings & close Rebirth. </br>
 ReBirth cannot be opened in ReWire mode when running ReBirth for the 1st time. </br>
-ReWire requires a large Buffer size in ProTools; Open ProTools, create a session, 48KHz, Open ReBirth so ReWire drivers are auto-detected by ProTools as mono channel instrument. </br>
+ReWire requires a large Buffer size in ProTools or audio will have glitches; </br>
+Open ProTools, create a session, 48KHz, Open ReBirth so ReWire drivers are auto-detected by ProTools as mono channel instrument. </br>
 ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) / [TR-08](https://www.roland.com/us/products/tr-08/) USB multi-channel audio driver. </br>
 
 ReBirth works in Linux, but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
