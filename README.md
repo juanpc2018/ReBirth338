@@ -17,7 +17,7 @@ Open ProTools, create a session, 48KHz, Open ReBirth so ReWire drivers are auto-
 ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) / [TR-08](https://www.roland.com/us/products/tr-08/) USB multi-channel audio driver. </br>
 
 ReBirth works in [Linux](https://ubuntuforums.org/showthread.php?t=846551) but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
-Having multi-channel output for mixing is the goal of ReWire. </br>
+Having multi-channel output for mixing on a DAW is the goal of ReWire. </br>
 
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
