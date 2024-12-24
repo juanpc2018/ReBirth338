@@ -23,7 +23,7 @@ Having multi-channel output for mixing audio on a DAW is the goal of ReWire. </b
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
 [PSP Audioware MasterQ](https://web.archive.org/web/20110207212139/http://pspaudioware.com/plugins/equalizers/psp_masterq/) 1.0.2 - 1.5.2 VST works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
-DX version works with [VB-Audio FFX4](http://vincent.burel.free.fr/download/index.htm) sounds a bit more transparent vs. VST </br>
+DX version works with [VB-Audio FFX4](http://vincent.burel.free.fr/download/index.htm), DX-VST sounds a bit more transparent vs. VST </br>
 v1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
 v1.5.2 does Not have DX version, but has RTAS version. </br>
 [MasterQ1](https://web.archive.org/web/20110207212139/http://pspaudioware.com/plugins/equalizers/psp_masterq/) was Discontinued in 2015 and replaced with [MasterQ2](https://www.pspaudioware.com/products/psp-masterq2), MQ1 still for sale if ask support. </br>
