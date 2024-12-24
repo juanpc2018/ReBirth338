@@ -30,6 +30,7 @@ there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narro
 Symmetric Boost & Cut or Asymetric like Waves REQ. </br>
 Avid d2/d3 very nice for DSP. </br>
 
+[2003 propellerheads & digidesign announce ReWire2 for ProTools](https://www.mixonline.com/recording/propellerhead-digidesign-announce-rewire2-pro-tools-375894)
 [2003 propellerheads.se Website](https://web.archive.org/web/20030429221427/http://www.propellerheads.se/products/rebirth/index.html)
 [2008 ReWire v1.7](https://web.archive.org/web/20080918060928/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain) [2010](https://web.archive.org/web/20100417072540/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain)
 [What is](https://web.archive.org/web/20100506002107/http://www.propellerheads.se/products/reason/index.cfm?fuseaction=get_article&article=rewire)
