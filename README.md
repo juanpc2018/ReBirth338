@@ -6,3 +6,5 @@ ProTools 2020.12 works with ReBirth 338 v2.01 + [V3Sync v1.30](﻿https://web.ar
 ReBirth 338 v2.01 .iso is required at start,
 works ok with [MagicISO](https://web.archive.org/web/20210516111743/http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm?=mdisc_hlp106) Virtual CD/DVD.
 
+ReBirth for PC was Discontinued as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) and replaced by ReBirth for iPad  </br>
+ReBirth ReWire worked with Reason 10 or older </br>
