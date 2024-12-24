@@ -29,3 +29,5 @@ has medium size Q curve vs. Waves REQ "Narrow Q" or McDSP Channel G </br>
 there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narrow,  </br>
 Symmetric Boost & Cut or Asymetric like Waves REQ. </br>
 Avid d2/d3 very nice for DSP. </br>
+
+[2003 propellerheads.se Website](https://web.archive.org/web/20030429221427/http://www.propellerheads.se/products/rebirth/index.html)
