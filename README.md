@@ -32,7 +32,7 @@ Avid d2/d3 very nice for DSP. </br>
 
 [2003 propellerheads & digidesign announce ReWire2 for ProTools](https://www.mixonline.com/recording/propellerhead-digidesign-announce-rewire2-pro-tools-375894)
 [2003 propellerheads.se Website](https://web.archive.org/web/20030429221427/http://www.propellerheads.se/products/rebirth/index.html)
-[2004](https://web.archive.org/web/20060703072755/http://www.propellerheads.se/technologies/rewire/index.cfm)
+[2004](https://web.archive.org/web/20060703072755/http://www.propellerheads.se/technologies/rewire/index.cfm) - [1](https://web.archive.org/web/20040620015356fw_/http://www.propellerheads.se/technologies/rewire/index.cfm?fuseaction=get_article&article=developer&nc=7618874) - [2](https://web.archive.org/web/20040621040002/http://www.propellerheads.se/developer/index.cfm?fuseaction=mainframe) - [3](https://web.archive.org/web/*/http://propellerheads.se/developer/files/*)
 [2006 archive.digidesign.com](https://web.archive.org/web/20060613095751/https://archive.digidesign.com/download/)
 [2008 ReWire v1.7](https://web.archive.org/web/20080918060928/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain) [2010](https://web.archive.org/web/20100417072540/http://www.propellerheads.se/download/updates_rewire/index.cfm?fuseaction=displaymain)
 [What is](https://web.archive.org/web/20100506002107/http://www.propellerheads.se/products/reason/index.cfm?fuseaction=get_article&article=rewire)
