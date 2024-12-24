@@ -29,7 +29,7 @@ MasterQ1 was Discontinued and replaced with MasterQ2, but still for sale if you 
 MasterQ2 has different algorithms according to .pdf manual, i prefer v1.0.2 </br>
 has medium size Q curve vs. Waves REQ "Narrow Q" or McDSP Channel G </br>
 there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narrow,  </br>
-Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boot & Cut. </br>
+Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boost & Cut. </br>
 Avid d2/d3 very nice for DSP. </br>
 
 Links: </br>
