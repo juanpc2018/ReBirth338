@@ -18,7 +18,7 @@ ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) /
 Roland also sells a more advanced modern software version of the [909](https://www.roland.com/us/products/rc_tr-909/), [808](https://www.roland.com/us/products/rc_tr-808/), [606](https://www.roland.com/us/products/rc_tr-606/).
 
 ReBirth works in [Linux](https://ubuntuforums.org/showthread.php?t=846551) but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
-Having multi-channel output for mixing on a DAW is the goal of ReWire. </br>
+Having multi-channel output for mixing audio on a DAW is the goal of ReWire. </br>
 
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
