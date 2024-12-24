@@ -1,6 +1,6 @@
 # ReBirth 338 v2.01
 
-[ProTools 2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Knowledge/Pro-Tools-Operating-System-Compatibility-Chart?retURL=%2Fpkb%2Farticles%2Fcompatibility%2FPro-Tools-Supported-Apple-Computers-and-Operating-Systems&popup=true) works with ReBirth 338 v2.01 + ReWire V3Sync v1.30 ﻿https://web.archive.org/web/20121221204754/http://blogs.yahoo.co.jp/alipapa_p/63025279.html
+[ProTools 2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Knowledge/Pro-Tools-Operating-System-Compatibility-Chart?retURL=%2Fpkb%2Farticles%2Fcompatibility%2FPro-Tools-Supported-Apple-Computers-and-Operating-Systems&popup=true) works with ReBirth 338 v2.01 + ReWire V3Sync v1.30 ﻿https://web.archive.org/web/20121221204754/http://blogs.yahoo.co.jp/alipapa_p/63025279.html </br>
 ﻿in Windows 8.1x64 + [WinHelp](﻿https://support.microsoft.com/en-us/topic/error-opening-help-in-windows-based-programs-feature-not-included-or-help-not-supported-3c841463-d67c-6062-0ee7-1a149da3973b) [x86](https://www.microsoft.com/en-us/download/details.aspx?id=47667) [x64](https://www.microsoft.com/en-us/download/details.aspx?id=47671)
 
 ReBirth 338 v2.01 .iso is required at start,
