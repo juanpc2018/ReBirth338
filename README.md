@@ -15,7 +15,7 @@ ReWire requires a large Buffer size in ProTools or audio will have glitches; </b
 Open ProTools, create a session, 48KHz, Open ReBirth so ReWire drivers are auto-detected by ProTools as mono channel instrument. </br>
 ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) / [TR-08](https://www.roland.com/us/products/tr-08/) USB multi-channel audio driver. </br>
 
-ReBirth works in Linux, but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
+ReBirth works in [Linux](https://ubuntuforums.org/showthread.php?t=846551) but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
 Having multi-channel output for mixing is the goal of ReWire. </br>
 
 PSP Audioware MasterQ 1.0.2 - 1.5.2 works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
