@@ -21,15 +21,18 @@ Having multi-channel output for mixing on a DAW is the goal of ReWire. </br>
 
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
-PSP Audioware MasterQ 1.0.2 - 1.5.2 works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
-1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
-MasterQ 1 was Discontinued and replaced with MasterQ2, but still for sale if you ask support. </br>
+PSP Audioware MasterQ 1.0.2 - 1.5.2 VST works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
+DX version works with [VB-Audio FFX4](http://vincent.burel.free.fr/download/index.htm) sounds a bit more transparent vs. VST </br>
+v1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
+v1.5.2 does Not have DX version, but has RTAS version. </br>
+MasterQ1 was Discontinued and replaced with MasterQ2, but still for sale if you ask support. </br>
 MasterQ2 has different algorithms according to .pdf manual, i prefer v1.0.2 </br>
 has medium size Q curve vs. Waves REQ "Narrow Q" or McDSP Channel G </br>
 there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narrow,  </br>
-Symmetric Boost & Cut or Asymetric Boost & Cutlike Waves REQ, or Constant Q Boot & Cut. </br>
+Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boot & Cut. </br>
 Avid d2/d3 very nice for DSP. </br>
 
+Links: </br>
 [2003 propellerheads & digidesign announce ReWire2 for ProTools](https://www.mixonline.com/recording/propellerhead-digidesign-announce-rewire2-pro-tools-375894)
 [2003 propellerheads.se Website](https://web.archive.org/web/20030429221427/http://www.propellerheads.se/products/rebirth/index.html)
 [2004](https://web.archive.org/web/20060703072755/http://www.propellerheads.se/technologies/rewire/index.cfm) - [1](https://web.archive.org/web/20040620015356fw_/http://www.propellerheads.se/technologies/rewire/index.cfm?fuseaction=get_article&article=developer&nc=7618874) - [2](https://web.archive.org/web/20040621040002/http://www.propellerheads.se/developer/index.cfm?fuseaction=mainframe) - [3](https://web.archive.org/web/*/http://propellerheads.se/developer/files/*)
