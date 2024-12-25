@@ -26,8 +26,12 @@ maybe using Carla + Wine + ReWire VST plugin. </br>
 Having multi-channel output for mixing audio on a DAW, is the goal of ReWire. </br>
 ReWire + DAW can be used to convert Digital Audio to Analog Outs + 16-channel External Mixer. </br>
 
+[ReWire VST plugin](https://web.archive.org/web/20181102050538/http://energy-xt.com/rewire-vst.html) released in [2009](https://rekkerd.org/xt-software-releases-xt-rewire-vst/) and discontinued in [2022](https://web.archive.org/web/20210927230559/http://energy-xt.com/shop.html) </br>
+Waves also has a [ReWire plugin](https://www.waves.com/support/rewire-link-cannot-be-established-in-waves-tune) for [Tune](https://www.waves.com/plugins/waves-tune) </br>
+
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
+Other: </br>
 [PSP Audioware MasterQ](https://web.archive.org/web/20110207212139/http://pspaudioware.com/plugins/equalizers/psp_masterq/) 1.0.2 - 1.5.2 VST works with [DDMF metaplugin](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/) in AAX </br>
 DX version works with [VB-Audio FFX4](http://vincent.burel.free.fr/download/index.htm), DX-VST sounds a bit more transparent vs. VST </br>
 v1.0.2 does Not have latency when FAT Mode is OFF, later versions have Fixed Latency. </br>
@@ -38,9 +42,6 @@ has medium size Q curves vs. Waves REQ "Narrow Q" or McDSP Channel G </br>
 there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narrow,  </br>
 Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boost & Cut. </br>
 Avid d2/d3 very nice for DSP. </br>
-
-There was a [ReWire VST plugin](https://web.archive.org/web/20181102050538/http://energy-xt.com/rewire-vst.html) released in [2009](https://rekkerd.org/xt-software-releases-xt-rewire-vst/) and discontinued in [2022](https://web.archive.org/web/20210927230559/http://energy-xt.com/shop.html) </br>
-Waves also has a [similar plugin](https://www.waves.com/support/rewire-link-cannot-be-established-in-waves-tune) for [Tune](https://www.waves.com/plugins/waves-tune) </br>
 
 Links: </br>
 [2003 propellerheads & digidesign announce ReWire2 for ProTools](https://www.mixonline.com/recording/propellerhead-digidesign-announce-rewire2-pro-tools-375894)
