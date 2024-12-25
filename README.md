@@ -36,7 +36,7 @@ Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boo
 Avid d2/d3 very nice for DSP. </br>
 
 There was a [ReWire VST plugin](https://web.archive.org/web/20181102050538/http://energy-xt.com/rewire-vst.html) released in [2009](https://rekkerd.org/xt-software-releases-xt-rewire-vst/) and discontinued in 2021 </br>
-Waves also had a [similar plugin](https://www.waves.com/support/rewire-link-cannot-be-established-in-waves-tune) for Tune. </br>
+Waves also had a [similar plugin](https://www.waves.com/support/rewire-link-cannot-be-established-in-waves-tune) for [Tune](https://www.waves.com/plugins/waves-tune) </br>
 
 Links: </br>
 [2003 propellerheads & digidesign announce ReWire2 for ProTools](https://www.mixonline.com/recording/propellerhead-digidesign-announce-rewire2-pro-tools-375894)
