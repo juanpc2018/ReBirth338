@@ -27,7 +27,7 @@ Having multi-channel output for mixing audio on a DAW, is the goal of ReWire. </
 ReWire + DAW can be used to convert Digital Audio to Analog Outs + 16-channel External Mixer. </br>
 
 [ReWire VST plugin](https://web.archive.org/web/20181102050538/http://energy-xt.com/rewire-vst.html) released in [2009](https://rekkerd.org/xt-software-releases-xt-rewire-vst/) and discontinued in [2022](https://web.archive.org/web/20210927230559/http://energy-xt.com/shop.html) </br>
-Waves also has a [ReWire plugin](https://www.waves.com/support/rewire-link-cannot-be-established-in-waves-tune) for [Tune](https://www.waves.com/plugins/waves-tune) </br>
+Waves also has a [ReWire plugin](https://www.waves.com/support/rewire-link-cannot-be-established-in-waves-tune) for [Tune](https://www.waves.com/plugins/waves-tune) . [v9.3](https://www.waves.com/downloads/v9#v9_3) . [v9.6](https://www.waves.com/downloads/v9#v9_6) . [v9.92](https://www.waves.com/downloads/v9#v9_92) . [v10](https://www.waves.com/downloads/v10#plugins) for W8.1 Untested. </br>
 
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
