@@ -24,7 +24,7 @@ Roland also sells a more advanced modern software version of the [909](https://w
 ReBirth works in [Linux](https://ubuntuforums.org/showthread.php?t=846551) but there is No ProTools for Linux, and there is No Wine/ReWire to Jack Audio, like WineAsio. </br>
 maybe using Carla + Wine + ReWire VST plugin. </br>
 Having multi-channel output for mixing audio on a DAW, is the goal of ReWire. </br>
-ReWire can also be used to convert Digital outs to Analog Outs and use an External Mixer. </br>
+ReWire can also be used to convert Digital outs to Analog Outs and use a 16-channel External Mixer. </br>
 
 [ReMaker v1.32](https://nordbeat.com/en/download-center/) converts Rebirth songs to MIDI </br>
 
