@@ -13,7 +13,9 @@ ReWire worked with [Reason 10](https://reverb.com/news/how-to-combine-2-daws-wit
 There is no ReWire support in [Cubase 12](https://forums.steinberg.net/t/i-didnt-see-where-is-rewire-menu/914704) onwards. </br>
 
 ReBirth requires to open the software, test a Benchmark: 22900 here i3-12100 with Balanced power settings, then opens a help file, select drivers/settings & close Rebirth. </br>
-ReBirth cannot be opened in ReWire mode when running ReBirth for the 1st time. </br>
+ReBirth cannot be opened in ReWire mode when running for the 1st time. </br>
+ReBirth cannot be opened for the 1st time if help file does Not open / gives error. </br>
+
 ReWire requires a large Buffer size in ProTools or audio will have glitches; </br>
 Open ProTools, create a session, 48KHz, Open ReBirth, ReWire drivers are auto-detected by ProTools as mono channel instrument. </br>
 ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) / [TR-08](https://www.roland.com/us/products/tr-08/) USB multi-channel audio driver. </br>
