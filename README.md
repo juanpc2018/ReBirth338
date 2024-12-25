@@ -35,6 +35,8 @@ there is 4 or 5 Q curve types that most Hardware EQ´s follow from Wide to Narro
 Symmetric Boost & Cut or Asymetric Boost & Cut like Waves REQ, or Constant Q Boost & Cut. </br>
 Avid d2/d3 very nice for DSP. </br>
 
+There was a [ReWire VST plugin](https://web.archive.org/web/20181102050538/http://energy-xt.com/rewire-vst.html) released in [2009](https://rekkerd.org/xt-software-releases-xt-rewire-vst/) and discontinued in 2021 </br>
+
 Links: </br>
 [2003 propellerheads & digidesign announce ReWire2 for ProTools](https://www.mixonline.com/recording/propellerhead-digidesign-announce-rewire2-pro-tools-375894)
 [2003 propellerheads.se Website](https://web.archive.org/web/20030429221427/http://www.propellerheads.se/products/rebirth/index.html)
