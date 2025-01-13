@@ -13,9 +13,11 @@ ReWire worked with [Reason 10](https://docs.propellerheads.se/reason10/wwhelp/ww
 There is No ReWire support in [Cubase 12](https://forums.steinberg.net/t/i-didnt-see-where-is-rewire-menu/914704) onwards, Only [11](https://archive.steinberg.help/cubase_pro/v11/en/cubase_nuendo/topics/rewire/rewire_c.html) & older. </br>
 
 ReBirth requires to test a Benchmark: </br>
-gives 22900 points with i3-12100 Balanced power settings, gives 6917 with Q6600 high performance settings, both 4-core No HyperThreading on the i3 </br>
+gives 22900 points with i3-12100 Balanced power settings, </br>
+gives 6917 with Q6600 high performance settings,</br> 
+both 4-core No HyperThreading on the i3. </br>
 
-then opens a help file, them select drivers /configuration settings & close Rebirth. </br>
+then opens a help file, then you must select drivers in configuration settings & close Rebirth. </br>
 
 ReBirth cannot be opened in ReWire mode when running for the 1st time. </br>
 ReBirth cannot be opened for the 1st time if help file does Not open / gives error. </br>
