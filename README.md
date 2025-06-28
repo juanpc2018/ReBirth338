@@ -18,7 +18,7 @@ There is No ReWire support in [Cubase 12](https://forums.steinberg.net/t/i-didnt
 ReBirth when running for the 1st time requires a Benchmark: </br>
 i3-12100 No-HT gives 23543 points Balanced power settings, </br>
 ![rebirth-test-i3-12100-4NoHT-23543](https://github.com/user-attachments/assets/2b056c45-57f0-43fd-8bf3-1be3c5454bf3) </br>
-Q6600 gives 6917 high performance settings,</br> 
+Q6600 975x from 2005 gives 6917 high performance settings,</br> 
 both 4-core No-HyperThreading on the i3. </br>
 
 AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 in ReBirth test </br>
