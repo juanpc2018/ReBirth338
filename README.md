@@ -2,8 +2,10 @@
 
 [ProTools 2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Knowledge/Pro-Tools-Operating-System-Compatibility-Chart?retURL=%2Fpkb%2Farticles%2Fcompatibility%2FPro-Tools-Supported-Apple-Computers-and-Operating-Systems&popup=true) works with [ReBirth 338 v2.01](https://en.wikipedia.org/wiki/ReBirth_RB-338) + [ReWire](https://en.wikipedia.org/wiki/ReWire_(software_protocol)) V3Sync [v1.30](https://scottbrio.com/rewire-64-32-a-handy-rewire-tool-for-ableton-10/) 32-Bit to 64-Bit Bridge  </br> ﻿https://web.archive.org/web/20121221204754/http://blogs.yahoo.co.jp/alipapa_p/63025279.html </br>
 ﻿in Windows 8.1x64 + [WinHelp](﻿https://support.microsoft.com/en-us/topic/error-opening-help-in-windows-based-programs-feature-not-included-or-help-not-supported-3c841463-d67c-6062-0ee7-1a149da3973b) [x86](https://www.microsoft.com/en-us/download/details.aspx?id=47667) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=47671) </br>
-Win 8.1x64 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) EFi v9.03 + Thunderbolt 4 AIC v1 + i3-12100 + GTX 1050 Ti + Chipset Drivers 10.1.19600.8418 </br>
+Win8.1x64 works in: </br>
+[ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) EFi v9.03 + Thunderbolt 4 AIC v1 + i3-12100 + GTX 1050 Ti + Chipset Drivers 10.1.19600.8418 </br>
 should also work in a Virtual Machine, [VirtualBox6](https://www.virtualbox.org/wiki/Download_Old_Builds) or VMWare OSX Fusion Player 10.2.1 / Win: Workstation Player </br>
+[ASRock X670e PF Lightning](https://pg.asrock.com/MB/AMD/X670E%20PG%20Lightning/index.asp) UEFI 1.21 + Thunderbolt 4 AIC v1 + 7600x + M6000 + [4.08.09 chipset drivers](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) 7zip .exe to a folder to install drivers. </br>
 
 ReBirth 338 v2.01 .iso is required at start, works with [MagicIso / MagicDisc](https://web.archive.org/web/20210516111743/http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm?=mdisc_hlp106) Virtual CD/DVD.</br>
 MagicISO CD/DVD driver requires to Reboot Windows in SafeMode to Dissable 7 Driver Enforcement, install as Administrator and/or allow Windows to load testsigned drivers with cmd "bcdedit /set testsigning on" </br>
@@ -18,8 +20,8 @@ i3-12100 No-HT gives 23543 points Balanced power settings, </br>
 Q6600 gives 6917 high performance settings,</br> 
 both 4-core No-HyperThreading on the i3. </br>
 
-AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 </br>
-gives 10798 points No-SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) with 4.08.09 oldest chipset drivers for x670e, 7zip .exe to a folder to install drivers. </br>
+AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 in ReBirth test </br>
+gives 10798 points No-SMT 6-cores, </br>
 ![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e) </br>
 Older AMD Operon 6308 4-cores or 6328 8-cores or 6386 16-cores </br>
 4 or 8-cores </br>
