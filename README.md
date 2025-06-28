@@ -2,7 +2,7 @@
 
 [ProTools 2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Knowledge/Pro-Tools-Operating-System-Compatibility-Chart?retURL=%2Fpkb%2Farticles%2Fcompatibility%2FPro-Tools-Supported-Apple-Computers-and-Operating-Systems&popup=true) works with [ReBirth 338 v2.01](https://en.wikipedia.org/wiki/ReBirth_RB-338) + [ReWire](https://en.wikipedia.org/wiki/ReWire_(software_protocol)) V3Sync [v1.30](https://scottbrio.com/rewire-64-32-a-handy-rewire-tool-for-ableton-10/) 32-Bit to 64-Bit Bridge  </br> ﻿https://web.archive.org/web/20121221204754/http://blogs.yahoo.co.jp/alipapa_p/63025279.html </br>
 ﻿in Windows 8.1x64 + [WinHelp](﻿https://support.microsoft.com/en-us/topic/error-opening-help-in-windows-based-programs-feature-not-included-or-help-not-supported-3c841463-d67c-6062-0ee7-1a149da3973b) [x86](https://www.microsoft.com/en-us/download/details.aspx?id=47667) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=47671) </br>
-Win8.1x64 works in: </br>
+Win8.1x64 works with: </br>
 [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) EFi v9.03 + Thunderbolt 4 AIC v1 + i3-12100 + GTX 1050 Ti + Chipset Drivers 10.1.19600.8418 </br>
 should also work in a Virtual Machine, [VirtualBox6](https://www.virtualbox.org/wiki/Download_Old_Builds) or VMWare OSX Fusion Player 10.2.1 / Win: Workstation Player </br>
 [ASRock X670e PF Lightning](https://pg.asrock.com/MB/AMD/X670E%20PG%20Lightning/index.asp) UEFI 1.21 + Thunderbolt 4 AIC v1 + 7600x + M6000 + [4.08.09 chipset drivers](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) 7zip .exe to a folder to install drivers. </br>
