@@ -18,17 +18,31 @@ gives 6917 with Q6600 high performance settings,</br>
 both 4-core No HyperThreading on the i3. </br>
 
 AMD Ryzen 7600x may have a problem, </br>
-gives 10788 points No SMT 6-cores ASRock No [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) drivers. </br>
+gives 10798 points No SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) drivers. </br>
 with 4.08.09 oldest version for x670e </br>
+7zip .exe to a folder to install drivers. </br>
 
-then opens a help file, then select drivers in configuration settings & close Rebirth. </br>
+When initial Benchmark is complete, opens a help file, </br>
+select audio drivers in configuration settings & close Rebirth. </br>
 
-ReBirth cannot be opened in ReWire mode when running for the 1st time. </br>
+### WARNINGs </br>
+ReBirth cannot be opened in ReWire mode, when running for the 1st time. </br>
 ReBirth cannot be opened if help file does Not open / gives error. </br>
+IF ReWire does Not work in ProTools AAE Error -20028 </br>
+is because has a conflict with other ReWire plugin like Waves Tune LT </br>
+requires to Delete "installedAaxplugins" cache file. </br>
+Windows8.1x64: </br>
+C:\Users\JuanPC\AppData\Roaming\Avid\Pro Tools\InstalledAAXPlugIns </br>
+OSX:
+user/Library/Preferences/Avid/Pro Tools/InstalledAAXPlugIns </br>
+~/Library/Preferences/Avid/Pro Tools/InstalledAAXPlugIns </br>
 
-ReWire requires a large Buffer size in ProTools or audio will have glitches; </br>
+To Force ProTools Re-Scan plugins at Start "like a New install" </br>
+Also Open ReWire 64-32 before to detect Waves LT ReWire. </br>
+
+ReWire requires large Buffer size 1024 in ProTools or audio will have glitches; </br>
 Open ProTools, create a session, 48KHz, Open ReBirth, ReWire drivers are auto-detected by ProTools as mono channel instrument. </br>
-in Cubase requires to activate channel.in Devices drop down menu, after creating or opening a session. </br>
+Cubase requires to activate channel in Devices drop down menu, after creating or opening a session. </br>
 
 ReWire is similar to Roland [TR-09](https://www.roland.com/us/products/tr-09/) / [TR-08](https://www.roland.com/us/products/tr-08/) USB multi-channel audio driver. </br>
 Roland also sells a more advanced modern software version of the [909](https://www.roland.com/us/products/rc_tr-909/), [808](https://www.roland.com/us/products/rc_tr-808/), [606](https://www.roland.com/us/products/rc_tr-606/).
