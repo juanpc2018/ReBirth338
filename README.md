@@ -2,7 +2,7 @@
 
 [ProTools 2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Knowledge/Pro-Tools-Operating-System-Compatibility-Chart?retURL=%2Fpkb%2Farticles%2Fcompatibility%2FPro-Tools-Supported-Apple-Computers-and-Operating-Systems&popup=true) works with [ReBirth 338 v2.01](https://en.wikipedia.org/wiki/ReBirth_RB-338) + [ReWire](https://en.wikipedia.org/wiki/ReWire_(software_protocol)) V3Sync [v1.30](https://scottbrio.com/rewire-64-32-a-handy-rewire-tool-for-ableton-10/) 32-Bit to 64-Bit Bridge ﻿https://web.archive.org/web/20121221204754/http://blogs.yahoo.co.jp/alipapa_p/63025279.html </br>
 ﻿in Windows 8.1x64 + [WinHelp](﻿https://support.microsoft.com/en-us/topic/error-opening-help-in-windows-based-programs-feature-not-included-or-help-not-supported-3c841463-d67c-6062-0ee7-1a149da3973b) [x86](https://www.microsoft.com/en-us/download/details.aspx?id=47667) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=47671) </br>
-Win 8.1x64 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) EFi v9.03 + Thunderbolt 4 AIC v1 + i3-12100 + GTX 1050 Ti </br>
+Win 8.1x64 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) EFi v9.03 + Thunderbolt 4 AIC v1 + i3-12100 + GTX 1050 Ti + Chipset Drivers 10.1.19600.8418 </br>
 should also work in a Virtual Machine, [VirtualBox6](https://www.virtualbox.org/wiki/Download_Old_Builds) or VMWare OSX Fusion Player 10.2.1 / Win: Workstation Player </br>
 
 ReBirth 338 v2.01 .iso is required at start, works with [MagicIso / MagicDisc](https://web.archive.org/web/20210516111743/http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm?=mdisc_hlp106) Virtual CD/DVD.</br>
@@ -16,6 +16,9 @@ ReBirth when running for the 1st time requires a Benchmark: </br>
 gives 22900 points with i3-12100 Balanced power settings, </br>
 gives 6917 with Q6600 high performance settings,</br> 
 both 4-core No HyperThreading on the i3. </br>
+
+AMD Ryzen 7600x may have a problem, </br>
+gives 10788 points No SMT Only 6-cores. </br>
 
 then opens a help file, then select drivers in configuration settings & close Rebirth. </br>
 
