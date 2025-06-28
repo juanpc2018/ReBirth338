@@ -13,14 +13,19 @@ ReWire worked with [Reason 10](https://docs.propellerheads.se/reason10/wwhelp/ww
 There is No ReWire support in [Cubase 12](https://forums.steinberg.net/t/i-didnt-see-where-is-rewire-menu/914704) onwards, Only [11](https://archive.steinberg.help/cubase_pro/v11/en/cubase_nuendo/topics/rewire/rewire_c.html) & older. </br>
 
 ReBirth when running for the 1st time requires a Benchmark: </br>
-gives 22900 points with i3-12100 Balanced power settings, </br>
-gives 6917 with Q6600 high performance settings,</br> 
-both 4-core No HyperThreading on the i3. </br>
+i3-12100 No-HT gives 23543 points Balanced power settings, </br>
+![rebirth-test-i3-12100-4NoHT-23543](https://github.com/user-attachments/assets/2b056c45-57f0-43fd-8bf3-1be3c5454bf3)
+Q6600 gives 6917 high performance settings,</br> 
+both 4-core No-HyperThreading on the i3. </br>
 
 AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 </br>
-ReBirth Benchmark gives 10798 points No SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) with 4.08.09 oldest chipset drivers for x670e </br>
-7zip .exe to a folder to install drivers. </br>
+gives 10798 points No-SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) with 4.08.09 oldest chipset drivers for x670e, 7zip .exe to a folder to install drivers. </br>
 ![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e)
+Older AMD Operon 6308 4-cores or 6328 8-cores or 6386 16-cores </br>
+4 or 8-cores
+![rebirth-test-1x6328x8-1600-8169](https://github.com/user-attachments/assets/0e3b1318-9e3d-4d12-ae0b-c8add7b78b7b)
+16-cores
+![rebirth-test-2x6386x16-1600-7781](https://github.com/user-attachments/assets/3f8236f4-1018-4731-ae68-fab3fee74ca4)
 
 When initial Benchmark is complete, opens a help file, </br>
 select audio drivers in configuration settings & close Rebirth. </br>
