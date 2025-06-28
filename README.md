@@ -14,18 +14,18 @@ There is No ReWire support in [Cubase 12](https://forums.steinberg.net/t/i-didnt
 
 ReBirth when running for the 1st time requires a Benchmark: </br>
 i3-12100 No-HT gives 23543 points Balanced power settings, </br>
-![rebirth-test-i3-12100-4NoHT-23543](https://github.com/user-attachments/assets/2b056c45-57f0-43fd-8bf3-1be3c5454bf3)
+![rebirth-test-i3-12100-4NoHT-23543](https://github.com/user-attachments/assets/2b056c45-57f0-43fd-8bf3-1be3c5454bf3) </br>
 Q6600 gives 6917 high performance settings,</br> 
 both 4-core No-HyperThreading on the i3. </br>
 
 AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 </br>
 gives 10798 points No-SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) with 4.08.09 oldest chipset drivers for x670e, 7zip .exe to a folder to install drivers. </br>
-![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e)
+![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e) </br>
 Older AMD Operon 6308 4-cores or 6328 8-cores or 6386 16-cores </br>
-4 or 8-cores
-![rebirth-test-1x6328x8-1600-8169](https://github.com/user-attachments/assets/0e3b1318-9e3d-4d12-ae0b-c8add7b78b7b)
-16-cores
-![rebirth-test-2x6386x16-1600-7781](https://github.com/user-attachments/assets/3f8236f4-1018-4731-ae68-fab3fee74ca4)
+4 or 8-cores </br>
+![rebirth-test-1x6328x8-1600-8169](https://github.com/user-attachments/assets/0e3b1318-9e3d-4d12-ae0b-c8add7b78b7b) </br>
+16-cores </br>
+![rebirth-test-2x6386x16-1600-7781](https://github.com/user-attachments/assets/3f8236f4-1018-4731-ae68-fab3fee74ca4) </br>
 
 When initial Benchmark is complete, opens a help file, </br>
 select audio drivers in configuration settings & close Rebirth. </br>
@@ -34,7 +34,7 @@ select audio drivers in configuration settings & close Rebirth. </br>
 ReBirth cannot be opened in ReWire mode, when running for the 1st time "without initial Benchmark". </br>
 ReBirth cannot be opened if help file does Not open / gives error. </br>
 IF ReWire does Not work in ProTools AAE Error -20028 </br>
-![Avid AAE Error -20038](https://github.com/user-attachments/assets/791a07b2-53ab-42f9-9007-95d1c7607d49)
+![Avid AAE Error -20038](https://github.com/user-attachments/assets/791a07b2-53ab-42f9-9007-95d1c7607d49) </br>
 is because has a conflict with other ReWire plugin like Waves Tune LT </br>
 requires to Delete "installedAaxplugins" cache file. </br>
 Windows8.1x64: </br>
