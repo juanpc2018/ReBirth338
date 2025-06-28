@@ -22,7 +22,7 @@ Q6600 975x from 2005 gives 6917 high performance settings in W7x32,</br>
 both 4-core, No-HyperThreading on the i3. </br>
 
 AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 in ReBirth test, </br>
-10798 points No-SMT </br>
+10798 points No-SMT "No Symmetric Multi-Threading" </br>
 ![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e) </br>
 Older 2010-2012 AMD 6308 & 6328 4/8-cores give 8169 "almost the same" & </br>
 ![rebirth-test-1x6328x8-1600-8169](https://github.com/user-attachments/assets/0e3b1318-9e3d-4d12-ae0b-c8add7b78b7b) </br>
