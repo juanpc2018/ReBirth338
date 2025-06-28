@@ -17,22 +17,23 @@ gives 22900 points with i3-12100 Balanced power settings, </br>
 gives 6917 with Q6600 high performance settings,</br> 
 both 4-core No HyperThreading on the i3. </br>
 
-AMD Ryzen 7600x may have a problem, </br>
-gives 10798 points No SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) drivers. </br>
-with 4.08.09 oldest version for x670e </br>
+AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 </br>
+ReBirth Benchmark gives 10798 points No SMT 6-cores, ASRock [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) with 4.08.09 oldest chipset drivers for x670e </br>
 7zip .exe to a folder to install drivers. </br>
+![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e)
 
 When initial Benchmark is complete, opens a help file, </br>
 select audio drivers in configuration settings & close Rebirth. </br>
 
-### WARNINGs </br>
-ReBirth cannot be opened in ReWire mode, when running for the 1st time. </br>
+### WARNING: </br>
+ReBirth cannot be opened in ReWire mode, when running for the 1st time "without initial Benchmark". </br>
 ReBirth cannot be opened if help file does Not open / gives error. </br>
 IF ReWire does Not work in ProTools AAE Error -20028 </br>
+![Avid AAE Error -20038](https://github.com/user-attachments/assets/791a07b2-53ab-42f9-9007-95d1c7607d49)
 is because has a conflict with other ReWire plugin like Waves Tune LT </br>
 requires to Delete "installedAaxplugins" cache file. </br>
 Windows8.1x64: </br>
-C:\Users\JuanPC\AppData\Roaming\Avid\Pro Tools\InstalledAAXPlugIns </br>
+C:\Users\Name\AppData\Roaming\Avid\Pro Tools\InstalledAAXPlugIns </br>
 OSX:
 user/Library/Preferences/Avid/Pro Tools/InstalledAAXPlugIns </br>
 ~/Library/Preferences/Avid/Pro Tools/InstalledAAXPlugIns </br>
