@@ -9,7 +9,7 @@ Win8.1x64 tested with: </br>
 should also work in a Virtual Machine like: [VirtualBox6](https://www.virtualbox.org/wiki/Download_Old_Builds) or VMWare OSX Fusion Player 10.2.1 / Win: Workstation Player </br>
 
 ReBirth 338 v2.01 [.iso](https://archive.org/search?query=rebirth&and%5B%5D=mediatype%3A%22software%22) is required at start, works with [MagicIso / MagicDisc](https://web.archive.org/web/20210516111743/http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm?=mdisc_hlp106) Virtual CD/DVD.</br>
-MagicISO CD/DVD driver requires to Reboot Windows in SafeMode to Dissable 7 Driver Enforcement, install as Administrator and/or allow Windows to load testsigned drivers with cmd "bcdedit /set testsigning on" </br>
+MagicISO driver requires to Reboot Windows in SafeMode to Dissable 7 Driver Enforcement, install as Administrator and/or allow Windows to load testsigned drivers with cmd "bcdedit /set testsigning on" </br>
  
 ReBirth for PC was Discontinued & Released as Freeware in [2005](https://web.archive.org/web/20051130043931/http://www.rebirthmuseum.com/) replaced by ReBirth for iPad, Discontinued in [2017](https://help.reasonstudios.com/hc/en-us/articles/360002216853-ReBirth-for-iPad-has-been-discontinued)</br>
 ReWire worked with [Reason 10](https://docs.propellerheads.se/reason10/wwhelp/wwhimpl/js/html/wwhelp.htm#href=ReWire.24.3.html).[1](https://reverb.com/news/how-to-combine-2-daws-with-rewire) or older </br>
