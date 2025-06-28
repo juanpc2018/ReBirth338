@@ -24,8 +24,9 @@ both 4-core No-HyperThreading on the i3. </br>
 AMD Ryzen 7600x is slower for 32-Bit vs. Intel i3-12100 in ReBirth test </br>
 gives 10798 points No-SMT 6-cores, </br>
 ![rebirth-7600x-10798](https://github.com/user-attachments/assets/892a5cdb-795a-4043-b288-cdb620ae170e) </br>
-Older AMD Operon 6308 4-cores or 6328 8-cores or 6386 16-cores </br>
-![rebirth-test-1x6328x8-1600-8169](https://github.com/user-attachments/assets/0e3b1318-9e3d-4d12-ae0b-c8add7b78b7b) 16-cores ![rebirth-test-2x6386x16-1600-7781](https://github.com/user-attachments/assets/3f8236f4-1018-4731-ae68-fab3fee74ca4) </br>
+Older AMD Operon 6308 4-cores or 6328 8-cores </br>
+![rebirth-test-1x6328x8-1600-8169](https://github.com/user-attachments/assets/0e3b1318-9e3d-4d12-ae0b-c8add7b78b7b) </br>
+or 6386 16-cores ![rebirth-test-2x6386x16-1600-7781](https://github.com/user-attachments/assets/3f8236f4-1018-4731-ae68-fab3fee74ca4) </br>
 
 When initial Benchmark is complete, opens a help file, </br>
 select audio drivers in configuration settings & close Rebirth. </br>
@@ -33,7 +34,7 @@ select audio drivers in configuration settings & close Rebirth. </br>
 ### WARNING: </br>
 ReBirth cannot be opened in ReWire mode, when running for the 1st time "without initial Benchmark". </br>
 ReBirth cannot be opened if help file does Not open / gives error. </br>
-IF ReWire does Not work in ProTools AAE Error -20028 </br>
+IF ReWire does Not work in ProTools AAE Error -20038 </br>
 ![Avid AAE Error -20038](https://github.com/user-attachments/assets/791a07b2-53ab-42f9-9007-95d1c7607d49) </br>
 is because has a conflict with other ReWire plugin like Waves Tune LT </br>
 requires to Delete "installedAaxplugins" cache file. </br>
