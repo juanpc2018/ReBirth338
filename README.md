@@ -18,7 +18,8 @@ gives 6917 with Q6600 high performance settings,</br>
 both 4-core No HyperThreading on the i3. </br>
 
 AMD Ryzen 7600x may have a problem, </br>
-gives 10788 points No SMT Only 6-cores. </br>
+gives 10788 points No SMT 6-cores ASRock No [x670e chipset](https://www.amd.com/en/support/downloads/previous-drivers.html/chipsets/am5/x670e.html) drivers. </br>
+with 4.08.09 oldest version for x670e </br>
 
 then opens a help file, then select drivers in configuration settings & close Rebirth. </br>
 
